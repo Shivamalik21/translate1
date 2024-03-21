@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Shivamalik21/translate1/static/css/main.85ef9829.css",
+    "main.js": "/Shivamalik21/translate1/static/js/main.e3c1c1ff.js",
+    "static/js/453.3a54b68c.chunk.js": "/Shivamalik21/translate1/static/js/453.3a54b68c.chunk.js",
+    "index.html": "/Shivamalik21/translate1/index.html",
+    "main.85ef9829.css.map": "/Shivamalik21/translate1/static/css/main.85ef9829.css.map",
+    "main.e3c1c1ff.js.map": "/Shivamalik21/translate1/static/js/main.e3c1c1ff.js.map",
+    "453.3a54b68c.chunk.js.map": "/Shivamalik21/translate1/static/js/453.3a54b68c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85ef9829.css",
+    "static/js/main.e3c1c1ff.js"
+  ]
+}
